@@ -1,8 +1,17 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Haleh Ghavami",
+  "version": "1.0.0",
+  "description": "A project that does miracle",
+  "keywords": [
+    "descriptive",
+    "related",
+    "freecodecamp"
+  ],
+  "license": "MIT",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "moment": "^2.10.2"
   },
   "main": "server.js",
   "scripts": {
